@@ -7,3 +7,5 @@ This project investigates the relationship between household energy burden and s
 ## Code & Analysis
 * [Main Analysis Script (R Markdown)](./PLS397Code.Rmd) — Contains the full OLS regression workflow.
 * [Project Writeup Source](./final_project_writeup.Rmd) — The Rmd file used to generate the final PDF report.
+
+## Data Source: Mention that the data is a merged set of ANES and EIA datasets from 2020.
